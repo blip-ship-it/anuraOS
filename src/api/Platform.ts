@@ -34,7 +34,7 @@ class Platform {
 				ua.indexOf("Macintosh") !== -1 &&
 				ua.indexOf("Safari") !== -1
 			) {
-				platform = "mobile";
+				platform = "tablet";
 			}
 		}
 
